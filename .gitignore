@@ -3,3 +3,7 @@
 ################################################################################
 
 /FileParserTests/obj/Debug
+/FileParser/obj/Debug
+/FileParser/bin/Debug/FileParser.vshost.exe.manifest
+/FileParser/bin/Debug/FileParser.vshost.exe.config
+/FileParser/bin/Debug/FileParser.vshost.exe
